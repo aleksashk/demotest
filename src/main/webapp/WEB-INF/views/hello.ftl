@@ -5,6 +5,6 @@
     <title>Title</title>
 </head>
 <body>
-<h1>Hello!!!</h1>
+<h1>I'm first template</h1>
 </body>
 </html>
